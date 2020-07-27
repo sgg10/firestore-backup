@@ -1,0 +1,29 @@
+{
+  "name": "@sgg10/firestore-backup",
+  "version": "1.0.0",
+  "description": "Library to import and export firestore collections in any project",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebastiangg10/firestore-backup.git"
+  },
+  "keywords": [
+    "firebase",
+    "firestore",
+    "import",
+    "export",
+    "backup"
+  ],
+  "author": "sgg10",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastiangg10/firestore-backup/issues"
+  },
+  "homepage": "https://github.com/sebastiangg10/firestore-backup#readme",
+  "dependencies": {
+    "firebase-admin": "^9.0.0"
+  }
+}
