@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/sebastiangg10/firestore-backup#readme",
   "dependencies": {
-    "firebase-admin": "^9.0.0"
+    "firebase-admin": "^11.4.1"
   }
 }
